@@ -1,0 +1,19 @@
+Asset Number,Manufacturer,Model,Image Date,Image Time,Body Part,View,Exposure Index,KAP (uGy.m2),kVp,Exposure (mAs),Exposure time (ms),Image Status,Reject Reason
+123,Siemens,Ysio X.Pree,2022-06-24 10:53:00,,ANKLE,X Ankle,82,,56.9,2.1,,Rejected,03. Positioning Error
+123,Siemens,Ysio X.Pree,2022-06-24 11:12:00,,CHEST,W Chest - PA Erect,525,,124.9,4.4,,Rejected,06. Anatomy Cutoff
+123,Siemens,Ysio X.Pree,2022-06-24 12:09:00,,HIP,X Hip - Horiz. Beam Lateral Tube Left,648,,65.9,7.2,,Rejected,03. Positioning Error
+123,Siemens,Ysio X.Pree,2022-06-24 13:27:00,,ABDOMEN,T Abdomen,458,,80.9,60.8,,Rejected,06. Anatomy Cutoff
+123,Siemens,Ysio X.Pree,2022-06-24 16:22:00,,CHEST,W Chest - PA Erect,447,,124.9,1.5,,Rejected,03. Positioning Error
+123,Siemens,Ysio X.Pree,2022-06-24 16:23:00,,CHEST,W Chest - PA Erect,404,,124.9,1.5,,Rejected,03. Positioning Error
+123,Siemens,Ysio X.Pree,2022-06-24 16:27:00,,CHEST,W Chest - PA Erect,407,,124.9,1.4,,Rejected,03. Positioning Error
+123,Siemens,Ysio X.Pree,2022-06-25 22:32:00,,CHEST,X Chest - AP,682,,104.9,3.3,,Rejected,06. Anatomy Cutoff
+123,Siemens,Ysio X.Pree,2022-06-26 13:47:00,,CHEST,W Chest - PA Erect,476,,124.9,1.1,,Rejected,06. Anatomy Cutoff
+123,Siemens,Ysio X.Pree,2022-06-26 14:01:00,,LSPINE,W Lumbar Spine - Lateral Supine,177,,89.8,40.1,,Rejected,06. Anatomy Cutoff
+123,Siemens,Ysio X.Pree,2022-06-27 15:38:00,,SHOULDER,Shoulder - Y-View,216,,59.8,5.0,,Rejected,03. Positioning Error
+123,Siemens,Ysio X.Pree,2022-06-27 16:11:00,,SHOULDER,Shoulder - Y-View,369,,72.9,8.1,,Rejected,03. Positioning Error
+123,Siemens,Ysio X.Pree,2022-06-27 16:39:00,,ABDOMEN,T Abdomen,678,,80.9,38.1,,Rejected,03. Positioning Error
+123,Siemens,Ysio X.Pree,2022-06-28 09:33:00,,CHEST,W Chest - Lateral,529,,124.9,3.8,,Rejected,03. Positioning Error
+123,Siemens,Ysio X.Pree,2022-06-28 09:53:00,,SHOULDER,Shoulder - Y-View,452,,72.9,9.5,,Rejected,03. Positioning Error
+123,Siemens,Ysio X.Pree,2022-06-28 10:35:00,,LSPINE,X Lumbar Spine - AP Free Detector,612,,74.8,25.1,,Rejected,03. Positioning Error
+123,Siemens,Ysio X.Pree,2022-06-28 10:34:00,,TSPINE,Thoracic Spine - Lateral Supine,136,,80.9,13.5,,Rejected,06. Anatomy Cutoff
+123,Siemens,Ysio X.Pree,2022-06-28 10:34:00,,LSPINE,W Lumbar Spine - Lateral Supine,426,,89.7,192.6,,Rejected,06. Anatomy Cutoff
